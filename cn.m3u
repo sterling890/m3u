@@ -1,19 +1,19 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合
+#EXTM3U url-logos="https://raw.fastgit.org/BurningC4/tvg-logo/master/"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="cctv1.png" group-title="央视",CCTV-1 综合
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="cctv2.png" group-title="央视",CCTV-2 财经
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="央视",CCTV-3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="cctv3.png" group-title="央视",CCTV-3 综艺
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="央视",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="cctv4.png" group-title="央视",CCTV-4 中文国际
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="央视",CCTV-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="cctv5.png" group-title="央视",CCTV-5 体育
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="央视",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="cctv5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="央视",CCTV-6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="cctv6.png" group-title="央视",CCTV-6 电影
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="央视",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="cctv7.png" group-title="央视",CCTV-7 国防军事
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="央视",CCTV-8 电视剧
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
@@ -33,7 +33,7 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-17_Logo.png" group-title="央视",CCTV-17 农业
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",湖南卫视
+#EXTINF:-1 tvg-id="18" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="hunan.png" group-title="常看",湖南卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="咪咕4k" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",咪咕4k
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
@@ -71,7 +71,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="耀才财经" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="财经",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
+#EXTINF:-1 tvg-id="37" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="dongfang.png" group-title="省台",东方卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/1.m3u8
@@ -183,3 +183,5 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226383/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226384/1.m3u8
 #EXTINF:-1 tvg-id="92" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频23
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="Arirang World" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="国外",Arirang World
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
