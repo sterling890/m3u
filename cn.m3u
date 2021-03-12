@@ -26,33 +26,35 @@ http://117.169.120.140:8080/live/cctv-10/.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="",CCTV中国中央电视台-11 戏曲
 http://117.169.120.140:8080/live/cctv-11/.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="",CCTV中国中央电视台-12 社会与法制
-http://117.148.187.37/PLTV/88888888/224/3221226167/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="",CCTV中国中央电视台-12 社会与法制
 http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV中国中央电视台-13 新闻
-http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV中国中央电视台-13 新闻
 http://117.169.120.140:8080/live/cctv-13/.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV中国中央电视台-13 新闻
-http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿
-http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿
-http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿
 http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="Music",CCTV中国中央电视台-15 音乐
 http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视
+http://121.31.30.90:8085/ysten-business/live/hunanstv/1.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视 (576p)
+http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HuNanWeiShi.cn" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="",湖南卫视
+http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视FHD
+http://117.148.187.37/PLTV/88888888/224/3221226162/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdhunanstv/yst.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视HD
+http://223.82.250.72/live/hdhunanstv/1.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视HD
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 tvg-id="nhkHuaYu.cn" tvg-name="nhk华语" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/NHK.png" group-title="",nhk华语
-https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 tvg-id="ShangHaiDongFangWeiShi.cn" tvg-name="上海东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",上海东方卫视
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东南卫视高清
-http://117.169.120.140:8080/live/dongnanstv/.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东方卫视
 http://121.31.30.90:8085/ysten-business/live/dongfangstv/1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东方卫视
@@ -65,7 +67,20 @@ http://117.148.187.37/PLTV/88888888/224/3221226142/index.m3u8
 http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东方卫视HD
 http://223.82.250.72/live/hddongfangstv/1.m3u8
-
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视
+http://121.31.30.90:8085/ysten-business/live/zhejiangstv/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视
+http://121.31.30.90:8085/ysten-business/live/zhejiangstv/yst.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视FHD
+http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视HD
+http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东南卫视高清
+http://117.169.120.140:8080/live/dongnanstv/.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",云南卫视
 http://121.31.30.90:8085/ysten-business/live/yunnanstv/1.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",云南卫视
@@ -260,18 +275,6 @@ http://121.31.30.90:8085/ysten-business/live/henanstv/yst.m3u8
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",河南卫视
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/henanstv/1.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视
-http://121.31.30.90:8085/ysten-business/live/zhejiangstv/1.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视
-http://121.31.30.90:8085/ysten-business/live/zhejiangstv/yst.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视FHD
-http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视HD
-http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
 #EXTINF:-1 tvg-id="HaiNanWeiShi.cn" tvg-name="海南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS1.png" group-title="",海南卫视
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视
@@ -304,22 +307,6 @@ http://121.31.30.90:8085/ysten-business/live/hdhubeistv/yst.m3u8
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖北卫视高清
 http://117.169.120.140:8080/live/hdhubeistv/.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视
-http://121.31.30.90:8085/ysten-business/live/hunanstv/1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视 (576p)
-http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HuNanWeiShi.cn" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="",湖南卫视
-http://ivi.bupt.edu.cn/hls/hunantv.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视FHD
-http://117.148.187.37/PLTV/88888888/224/3221226162/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdhunanstv/yst.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视HD
-http://223.82.250.72/live/hdhunanstv/1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视HD
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="DianZhangCaiJing.cn" tvg-name="点掌财经" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",甘肃卫视
