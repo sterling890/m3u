@@ -65,19 +65,45 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="咪咕4k" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",咪咕4k
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="咪咕4k" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",咪咕4k
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226564/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="凤凰中文" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",凤凰中文
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="凤凰中文" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",凤凰中文
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="凤凰中文" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",凤凰中文
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="凤凰资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",凤凰资讯
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="凤凰资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",凤凰资讯
+http://117.169.119.199:8080/live/fhzixun/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="凤凰资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",凤凰资讯
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="北京IPTV4K超清" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京IPTV4K超清
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="北京IPTV淘BABY" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京IPTV淘BABY
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="北京IPTV淘剧场" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京IPTV淘剧场
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="北京IPTV淘娱乐" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京IPTV淘娱乐
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="北京IPTV淘电影" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京IPTV淘电影
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="北京IPTV萌宠TV" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京IPTV萌宠TV
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 
-
-#EXTINF:-1 tvg-id="AoShiWeiXing.cn" tvg-name="奥视卫星" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/AOSHI.png" group-title="",奥视卫星 (720p)
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-#EXTINF:-1 tvg-id="nhkHuaYu.cn" tvg-name="nhk华语" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/NHK.png" group-title="",nhk华语
-#EXTINF:-1 tvg-id="ShangHaiDongFangWeiShi.cn" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东方卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000093
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",浙江卫视HD
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000094
+#EXTINF:-1 tvg-id="nhkHuaYu.cn" tvg-name="nhk华语" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/NHK.png" group-title="常看",nhk华语
+
+#EXTINF:-1 tvg-id="ShangHaiDongFangWeiShi.cn" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8
+#EXTINF:-1 tvg-id="ShangHaiDongFangWeiShi.cn" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/1.m3u8
+
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",北京卫视HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",天津卫视
