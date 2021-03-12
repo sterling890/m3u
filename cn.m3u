@@ -35,6 +35,8 @@ http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视HD
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖南卫视HD
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000086
 #EXTINF:-1 tvg-id="AoShiWeiXing.cn" tvg-name="奥视卫星" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/AOSHI.png" group-title="",奥视卫星 (720p)
 http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel V
