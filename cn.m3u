@@ -1,4 +1,4 @@
-#EXTM3U url-logos="https://raw.fastgit.org/BurningC4/tvg-logo/master/"
+#EXTM3U url-logos="https://hub.fastgit.org/BurningC4/tvg-logo/master/"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="cctv1.png" group-title="央视",CCTV-1 综合
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="cctv2.png" group-title="央视",CCTV-2 财经
