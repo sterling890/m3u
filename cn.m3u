@@ -1,18 +1,40 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226416/1.m3u8,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226416/1.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV-2 财经
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000061
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV-2 财经
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV-2 财经
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/1.m3u8
+
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="央视",CCTV-3 综艺
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
+
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="央视",CCTV-4 中文国际
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000063
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="央视",CCTV-4 中文国际
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
+
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="央视",CCTV-5 体育
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="央视",CCTV-5+ 体育赛事
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="央视",CCTV-5+ 体育赛事
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="央视",CCTV-5+ 体育赛事
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/1.m3u8
+
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="央视",CCTV-6 电影
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000065
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="央视",CCTV-7 国防军事
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000127
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="央视",CCTV-8 电视剧
