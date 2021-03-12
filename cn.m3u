@@ -1,74 +1,44 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV-2 财经
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV-2 财经
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV-2 财经
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="央视",CCTV-3 综艺
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="央视",CCTV-4 中文国际
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="央视",CCTV-4 中文国际
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="央视",CCTV-5 体育
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="央视",CCTV-5+ 体育赛事
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="央视",CCTV-5+ 体育赛事
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="央视",CCTV-5+ 体育赛事
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="央视",CCTV-6 电影
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="央视",CCTV-7 国防军事
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="央视",CCTV-7 国防军事
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="央视",CCTV-8 电视剧
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="央视",CCTV-9 纪录
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="央视",CCTV-9 纪录
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="央视",CCTV-10 科教
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="央视",CCTV-10 科教
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226227/1.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="央视",CCTV-11 戏曲
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="央视",CCTV-11 戏曲
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="央视",CCTV-12 社会与法制
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="央视",CCTV-13 新闻
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="央视",CCTV-14 少儿
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="央视",CCTV-14 少儿
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="央视",CCTV-15 音乐
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="央视",CCTV-15 音乐
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-17_Logo.png" group-title="央视",CCTV-17 农业
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-17_Logo.png" group-title="央视",CCTV-17 农业
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo=https://bkimg.cdn.bcebos.com/pic/5ab5c9ea15ce36d3e486ab4e31f33a87e850b1c9?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto"" group-title="常看",湖南卫视HD
+#EXTINF:-1 tvg-id="28" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://bkimg.cdn.bcebos.com/pic/5ab5c9ea15ce36d3e486ab4e31f33a87e850b1c9?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" group-title="常看",湖南卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="咪咕4k" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",咪咕4k
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="凤凰中文" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",凤凰中文
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="凤凰中文" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",凤凰中文
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="凤凰中文" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",凤凰中文
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="凤凰资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",凤凰资讯
@@ -79,6 +49,8 @@ http://117.169.119.199:8080/live/fhzixun/index.m3u8
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="北京IPTV4K超清" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京IPTV4K超清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="北京冬奥纪实" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京冬奥纪实
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="北京IPTV淘BABY" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京IPTV淘BABY
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="北京IPTV淘剧场" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京IPTV淘剧场
@@ -89,232 +61,126 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="北京IPTV萌宠TV" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="常看",北京IPTV萌宠TV
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-
 #EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 tvg-id="nhkHuaYu.cn" tvg-name="nhk华语" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/NHK.png" group-title="常看",nhk华语
-
-#EXTINF:-1 tvg-id="ShangHaiDongFangWeiShi.cn" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8
-#EXTINF:-1 tvg-id="ShangHaiDongFangWeiShi.cn" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8
-
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视HD
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/1.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视HD
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/1.m3u8
-
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",北京卫视HD
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",天津卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000084
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东南卫视高清
-http://117.169.120.140:8080/live/dongnanstv/.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",云南卫视
-http://121.31.30.90:8085/ysten-business/live/yunnanstv/yst.m3u8
-#EXTINF:-1 tvg-id="ShaMenWeiShi.cn" tvg-name="厦门卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="",厦门卫视
-http://ivi.bupt.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",吉林卫视高清
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000097
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",四川卫视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000103
-#EXTINF:-1 tvg-id="TianJinWeiShiGaoQing.cn" tvg-name="天津卫视高清" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/TJWS.png" group-title="",天津卫视高清
-http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",宁夏卫视
-http://ivi.bupt.edu.cn/hls/nxtv.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",安徽卫视高清
-http://125.210.152.10:8060/live/AHWSHD_H265.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",山东卫视高清
-http://117.169.120.140:8080/live/hdshandongstv/.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",山西卫视
-http://117.169.120.140:8080/live/shanxistv/.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广东卫视
-http://121.31.30.90:8085/ysten-business/live/guangdongstv/1.m3u8
-#EXTINF:-1 tvg-id="GuangDongWeiShi.cn" tvg-name="广东卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png" group-title="",广东卫视
-http://ivi.bupt.edu.cn/hls/gdtv.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广东卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdguangdongstv/1.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广东卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdguangdongstv/1.m3u8
-#EXTINF:-1 tvg-id="GuangDongWeiShiGaoQing.cn" tvg-name="广东卫视高清" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="",广东卫视高清
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广西卫视
-http://121.31.30.90:8085/ysten-business/live/guangxistv/1.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广西卫视
-http://121.31.30.90:8085/ysten-business/live/guangxistv/yst.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广西卫视
-http://223.82.250.72/live/guangxistv/1.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广西卫视
-http://ivi.bupt.edu.cn/hls/gxtv.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广西卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/guangxistv/1.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",新疆卫视
-http://121.31.30.90:8085/ysten-business/live/xinjiangstv/1.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",新疆卫视
-http://121.31.30.90:8085/ysten-business/live/xinjiangstv/yst.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",新疆卫视
-http://223.82.250.72/live/xinjiangstv/1.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",新疆卫视
-http://ivi.bupt.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",旅游卫视
-http://223.82.250.72/live/lvyoustv/1.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",旅游卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/lvyoustv/1.m3u8
-#EXTINF:-1 tvg-id="RiBenQuanTianXinWen.cn" tvg-name="日本全天新聞" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/riben24.png" group-title="",日本全天新聞 (480p)
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 tvg-id="RiBenQuanTianXinWen.cn" tvg-name="日本全天新聞" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/riben24.png" group-title="常看",日本全天新聞 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏卫视
-http://121.31.30.90:8085/ysten-business/live/jiangsustv/1.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏卫视
-http://121.31.30.90:8085/ysten-business/live/jiangsustv/yst.m3u8
-#EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" group-title="",江苏卫视
-http://ivi.bupt.edu.cn/hls/jstv.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏卫视FHD
-http://117.148.187.37/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/yst.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏卫视HD
-http://223.82.250.72/live/hdjiangsustv/1.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏卫视HD
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江苏卫视高清
-http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江西卫视
-http://121.31.30.90:8085/ysten-business/live/jiangxistv/1.m3u8
-#EXTINF:-1 tvg-id="JiangXiWeiShi.cn" tvg-name="江西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png" group-title="",江西卫视
-http://ivi.bupt.edu.cn/hls/jxtv.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江西卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jiangxistv/1.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",江西卫视高清
-http://117.169.120.140:8080/live/jiangxistv/.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",河北卫视
-http://121.31.30.90:8085/ysten-business/live/hebeistv/1.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",河北卫视
-http://121.31.30.90:8085/ysten-business/live/hebeistv/yst.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",河北卫视
-http://223.82.250.72/live/hebeistv/1.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",河北卫视 (576p)
-http://hbpx.chinashadt.com:2036/live/px4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HeBeiWeiShi.cn" tvg-name="河北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcfa5599f.png" group-title="",河北卫视
-http://ivi.bupt.edu.cn/hls/hebtv.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",河北卫视HD
-http://weblive.hebtv.com/live/hbws_lc/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="",河南卫视
-http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",河南卫视
-http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",河南卫视
-http://121.31.30.90:8085/ysten-business/live/henanstv/yst.m3u8
-#EXTINF:-1 tvg-id="HeNanWeiShi.cn" tvg-name="河南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png" group-title="",河南卫视
-http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",河南卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/henanstv/1.m3u8
-#EXTINF:-1 tvg-id="HaiNanWeiShi.cn" tvg-name="海南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS1.png" group-title="",海南卫视
-http://ivi.bupt.edu.cn/hls/lytv.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视
-http://121.31.30.90:8085/ysten-business/live/shenzhenstv/1.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视
-http://121.31.30.90:8085/ysten-business/live/shenzhenstv/yst.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视
-http://ivi.bupt.edu.cn/hls/sztv.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdshenzhenstv/1.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/yst.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视HD
-http://223.82.250.72/live/hdshenzhenstv/1.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视HD
-http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视高清
-http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖北卫视
-http://121.31.30.90:8085/ysten-business/live/hubeistv/1.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖北卫视
-http://121.31.30.90:8085/ysten-business/live/hubeistv/yst.m3u8
-#EXTINF:-1 tvg-id="HuBeiWeiShi.cn" tvg-name="湖北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png" group-title="",湖北卫视
-http://ivi.bupt.edu.cn/hls/hbtv.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖北卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdhubeistv/1.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖北卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdhubeistv/yst.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖北卫视HD
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",湖北卫视高清
-http://117.169.120.140:8080/live/hdhubeistv/.m3u8
-#EXTINF:-1 tvg-id="DianZhangCaiJing.cn" tvg-name="点掌财经" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="",点掌财经
+#EXTINF:-1 tvg-id="DianZhangCaiJing.cn" tvg-name="点掌财经" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="财经",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",甘肃卫视
-http://117.169.120.140:8080/live/gansustv/.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",甘肃卫视
-http://121.31.30.90:8085/ysten-business/live/gansustv/1.m3u8
-#EXTINF:-1 tvg-id="GanSuWeiShi.cn" tvg-name="甘肃卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd979fbf3.png" group-title="",甘肃卫视
-http://ivi.bupt.edu.cn/hls/gstv.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",甘肃卫视
-http://stream.gstv.com.cn/gsws/sd/live.m3u8
-#EXTINF:-1 tvg-id="YaoCaiCaiJing.cn" tvg-name="耀才财经" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",耀才财经
+#EXTINF:-1 tvg-id="YaoCaiCaiJing.cn" tvg-name="耀才财经" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="财经",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西藏卫视
-http://117.169.120.140:8080/live/xizangstv/.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西藏卫视
-http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西藏卫视
-http://121.31.30.90:8085/ysten-business/live/xizangstv/yst.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西藏卫视
-http://ivi.bupt.edu.cn/hls/xztv.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西藏卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xizangstv/1.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西藏卫视
-http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",贵州卫视
-http://121.31.30.90:8085/ysten-business/live/guizhoustv/1.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",贵州卫视
-http://121.31.30.90:8085/ysten-business/live/guizhoustv/yst.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",贵州卫视
-http://223.82.250.72/live/guizhoustv/1.m3u8
-#EXTINF:-1 tvg-id="GuiZhouWeiShi.cn" tvg-name="贵州卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png" group-title="",贵州卫视
-http://ivi.bupt.edu.cn/hls/gztv.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",贵州卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/guizhoustv/1.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",辽宁卫视
-http://121.31.30.90:8085/ysten-business/live/liaoningstv/1.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",辽宁卫视
-http://121.31.30.90:8085/ysten-business/live/liaoningstv/yst.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",辽宁卫视
-http://ivi.bupt.edu.cn/hls/lntv.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",辽宁卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/liaoningstv/1.m3u8
-#EXTINF:-1 tvg-id="LiaoNingWeiShiGaoQing.cn" tvg-name="辽宁卫视高清" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/liaoning.jpg" group-title="",辽宁卫视高清
-http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",重庆卫视
-http://121.31.30.90:8085/ysten-business/live/chongqingstv/1.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",重庆卫视
-http://121.31.30.90:8085/ysten-business/live/chongqingstv/yst.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",重庆卫视
-http://223.82.250.72/live/chongqingstv/1.m3u8
-#EXTINF:-1 tvg-id="ChongQingWeiShi.cn" tvg-name="重庆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png" group-title="",重庆卫视
-http://ivi.bupt.edu.cn/hls/cqtv.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",重庆卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/chongqingstv/1.m3u8
-#EXTINF:-1 tvg-id="ChongQingWeiShiGaoQing.cn" tvg-name="重庆卫视高清" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/chongqing.jpg" group-title="",重庆卫视高清
-http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",阳光卫视
+#EXTINF:-1 tvg-id="27" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/1.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",北京卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",天津卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",东南卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",云南卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226424/1.m3u8
+#EXTINF:-1 tvg-id="ShaMenWeiShi.cn" tvg-name="厦门卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="省台",厦门卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/1.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",吉林卫视高清
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226426/1.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",四川卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226407/1.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",宁夏卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226413/1.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",安徽卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",山东卫
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",山西卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226410/1.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",广东卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",广西卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226408/1.m3u8
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/guangxistv/1.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",新疆卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226422/1.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",旅游卫视
+http://223.82.250.72/live/lvyoustv/1.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",江苏卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226366/1.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",江西卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",河北卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="省台",河南卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226525/1.m3u8
+#EXTINF:-1 tvg-id="HaiNanWeiShi.cn" tvg-name="海南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS1.png" group-title="省台",海南卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226427/1.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",深圳卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/1.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",湖北卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/1.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",甘肃卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226414/1.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",西藏卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226428/1.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",贵州卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",辽宁卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",重庆卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226337/1.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",阳光卫视
-http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",陕西卫视
-http://121.31.30.90:8085/ysten-business/live/shanxi1stv/yst.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",陕西卫视
-http://223.82.250.72/live/shanxi1stv/1.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",陕西卫视
-http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",青海卫视
-http://121.31.30.90:8085/ysten-business/live/qinghaistv/1.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",青海卫视
-http://121.31.30.90:8085/ysten-business/live/qinghaistv/yst.m3u8
-#EXTINF:-1 tvg-id="QingHaiWeiShi.cn" tvg-name="青海卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png" group-title="",青海卫视
-http://ivi.bupt.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1 tvg-id="HeiLongJiangWeiShi.cn" tvg-name="黑龙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png" group-title="",黑龙江卫视
-http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",黑龙江卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdheilongjiangstv/1.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",黑龙江卫视HD
-http://223.82.250.72/live/hdheilongjiangstv/1.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",陕西卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226411/1.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="省台",青海卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226412/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="黑龙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png" group-title="省台",黑龙江卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频1
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226374/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频2
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226375/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频3
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226377/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频4
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226378/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频5
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226379/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频6
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226380/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频7
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226381/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226382/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频9
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226394/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频10
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226395/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频11
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226396/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频12
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226397/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频13
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226398/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频14
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226393/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频15
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226392/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频16
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226391/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频17
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226390/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频18
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226372/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频19
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226373/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频20
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226376/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频21
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226383/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频22
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226384/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="咪咕视频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="咪咕",咪咕视频23
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
